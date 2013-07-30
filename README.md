@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### On OS X
+
+1. Copy JSON to clipboard  
+`pbpaste | json2objc genprop`
 
 ## Contributing
 
