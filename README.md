@@ -20,8 +20,16 @@ Or install it yourself as:
 
 ### On OS X
 
+#### Convert from Clipboard
+
 1. Copy JSON to clipboard  
-`pbpaste | json2objc genprop`
+2. `pbpaste | json2objc genprop`
+
+#### Convert from File
+
+1. Insert JSON to file.json  
+2. `json2objc genprop -i file.json`
+
 
 ## Contributing
 
